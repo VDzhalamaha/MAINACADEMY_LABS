@@ -12,6 +12,7 @@ namespace lab1
             //if (i) 
             //{\\////
                 Console.WriteLine(a);
+            Console.WriteLine(a);
             //}
             Console.ReadLine();
         }
